@@ -1,6 +1,6 @@
 # 📊 Data Analytics Repository
 
-This repository contains a collection of **Data Analytics projects, lab work, and practice exercises** using **Python, SQL, Excel, and Jupyter Notebook**.  
+This repository contains a collection of **Data Analytics projects, lab work, and practice exercises** using **Python, SQL, Excel, PowerBI and Jupyter Notebook**.  
 It showcases hands-on experience in data cleaning, analysis, querying, and basic insights generation.
 
 ---
